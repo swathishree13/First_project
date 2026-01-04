@@ -1,2 +1,5 @@
-# First_project
-My first GitHub project as a 1st year CSE student 
+# First GitHub Project
+
+Hi 👋  
+I am Swathi Shree, a CSE student.  
+This is my first project on GitHub.
